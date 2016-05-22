@@ -1,0 +1,16 @@
+2013-09-07 12:56:50,295 - Generic_Prometheus_logger - INFO - ('--- Package: LoggingManager - Module: LoggingHandler Class: loggingHandler Initiated ---', 88)
+2013-09-07 12:58:14,772 - Generic_Prometheus_logger - INFO - ('--- Package: LoggingManager - Module: LoggingHandler Class: loggingHandler Initiated ---', 88)
+2013-09-11 22:22:27,563 - Generic_Prometheus_logger - INFO - --- Package: LoggingManager - Module: LoggingHandler Class: loggingHandler Initiated ---
+2013-09-12 22:05:03,719 - Generic_Prometheus_logger - INFO - --- Package: LoggingManager - Module: LoggingHandler Class: loggingHandler Initiated ---
+2013-09-12 22:05:03,735 - Generic_Prometheus_logger - INFO - Package: ExportManager - Module: ExportHandler Class: exportFeed Initiated with base url
+2013-09-12 22:05:27,470 - Generic_Prometheus_logger - INFO - --- Package: LoggingManager - Module: LoggingHandler Class: loggingHandler Initiated ---
+2013-09-12 22:05:27,470 - Generic_Prometheus_logger - INFO - Package: ExportManager - Module: ExportHandler Class: exportFeed Initiated with base url
+2013-09-12 22:05:58,259 - Generic_Prometheus_logger - INFO - --- Package: LoggingManager - Module: LoggingHandler Class: loggingHandler Initiated ---
+2013-09-12 22:05:58,259 - Generic_Prometheus_logger - INFO - Package: ExportManager - Module: ExportHandler Class: exportFeed Initiated with base url
+2013-09-12 22:06:28,345 - Generic_Prometheus_logger - INFO - --- Package: LoggingManager - Module: LoggingHandler Class: loggingHandler Initiated ---
+2013-09-12 22:06:28,346 - Generic_Prometheus_logger - INFO - Package: ExportManager - Module: ExportHandler Class: exportFeed Initiated with base url
+2013-09-12 22:06:57,388 - Generic_Prometheus_logger - INFO - --- Package: LoggingManager - Module: LoggingHandler Class: loggingHandler Initiated ---
+2013-09-12 22:06:57,388 - Generic_Prometheus_logger - INFO - Package: ExportManager - Module: ExportHandler Class: exportFeed Initiated with base url
+2013-09-12 22:15:27,886 - Generic_Prometheus_logger - INFO - --- Package: LoggingManager - Module: LoggingHandler Class: loggingHandler Initiated ---
+2013-09-12 22:31:12,470 - Generic_Prometheus_logger - INFO - --- Package: LoggingManager - Module: LoggingHandler Class: loggingHandler Initiated ---
+2013-09-12 22:31:12,470 - Generic_Prometheus_logger - INFO - Package: ExportManager - Module: ExportHandler Class: exportFeed Initiated with base url
